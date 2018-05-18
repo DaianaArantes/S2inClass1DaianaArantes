@@ -1,0 +1,30 @@
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.exe.config
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.exe
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.pdb
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csprojResolveAssemblyReference.cache
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.FancyCalculator.resources
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.Properties.Resources.resources
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csproj.GenerateResource.Cache
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csproj.CoreCompileInputs.cache
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.exe
+G:\PROG1815-18W\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.exe.config
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\bin\Debug\fancyCalculator.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.FancyCalculator.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.Properties.Resources.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csproj.GenerateResource.Cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator\fancyCalculator\fancyCalculator\obj\Debug\fancyCalculator.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\bin\Debug\fancyCalculator.exe.config
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\bin\Debug\fancyCalculator.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\bin\Debug\fancyCalculator.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.FancyCalculator.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.Properties.Resources.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.csproj.GenerateResource.Cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\fancyCalculator2\fancyCalculator\obj\Debug\fancyCalculator.pdb
